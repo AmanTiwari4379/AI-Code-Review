@@ -5,7 +5,7 @@ function App() {
   const [toggle, setToggle] = useState();
   return (
     <>
-    
+    <h1>AI Code Review</h1>
     </>
   )
 }
